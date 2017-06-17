@@ -1,0 +1,41 @@
+html {
+  background-color: #FFD6EE;
+}
+
+body {
+  margin-top: 0;
+  max-width: 666px;
+}
+
+a {
+  color: #FF0000;
+}
+
+h1 {
+  color: #0000FF;
+  font-family: 'UnifrakturCook';
+  font-size: 100px;
+  text-align: center;
+}
+
+p, li {
+  color: #0000FF;
+  font-family: 'Inconsolata', monospace;
+  font-size: 30px;
+  margin-top: 0;
+}
+
+/* MEDIA QUERIES ------------------------------------------- */
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 480px) {
+  p {
+    font-size: 50px;
+  }
+
+  li {
+    font-size: 25px;
+  }
+}
