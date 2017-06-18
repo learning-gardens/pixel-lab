@@ -42,7 +42,7 @@ A collection of resources for various tools, and the people who know something a
   - [egghead D3 tutorial](https://egghead.io/technologies/d3)
   - [D3 examples, with code](https://bl.ocks.org/mbostock)
 - Members
- - TBD
+  - TBD
 
 ### Maya
 
@@ -52,7 +52,7 @@ A collection of resources for various tools, and the people who know something a
   - [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
   - [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
 - Members
- - TBD
+  - TBD
 
 ### p5.js
 
