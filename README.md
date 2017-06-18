@@ -32,26 +32,26 @@ A collection of resources for various tools, and the people who know something a
 * [egghead D3 tutorial](https://egghead.io/technologies/d3)
 * [D3 examples, with code](https://bl.ocks.org/mbostock)
 
-[morgane](https://github.com/morgane): some experience with D3 and am willing to offer guidance to absolute beginners
+* [morgane](https://github.com/morgane): some experience with D3 and am willing to offer guidance to absolute beginners
 
 ### Maya
 
-[UCBUGG Maya tutorials](http://ucbugg.com/static/index.html#labsintroductiontomaya)
-[Treehouse "3D Art with Maya LT" tutorial](https://teamtreehouse.com/library/3d-art-with-maya-lt)
-[Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
-[morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
+* [UCBUGG Maya tutorials](http://ucbugg.com/static/index.html#labsintroductiontomaya)
+* [Treehouse "3D Art with Maya LT" tutorial](https://teamtreehouse.com/library/3d-art-with-maya-lt)
+* [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
+* [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
 
-[morgane](https://github.com/morgane): I use Maya mostly for low-poly modeling and can teach people to basics of it
+* [morgane](https://github.com/morgane): I use Maya mostly for low-poly modeling and can teach people to basics of it
 
 ### p5.js
 
-[official p5.js website](https://p5js.org/)
+* [official p5.js website](https://p5js.org/)
 
 ### Unity
 
-[official Unity tutorials](https://unity3d.com/learn/tutorials)
-[Treehouse "Game Development with Unity" track](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
-[morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
-[Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
+* [official Unity tutorials](https://unity3d.com/learn/tutorials)
+* [Treehouse "Game Development with Unity" track](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
+* [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
+* [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
 
-[morgane](https://github.com/morgane): I've used Unity to create a few small experiences, mostly for VR-- really happy to talk more about it + collab!
+* [morgane](https://github.com/morgane): I've used Unity to create a few small experiences, mostly for VR-- really happy to talk more about it + collab!
