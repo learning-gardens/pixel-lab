@@ -11,6 +11,12 @@
 
 Pixel Lab is a garden within [Learning Gardens](http://learning-gardens.co/), dedicated to working on creative technological projects and teaching each other how we can use computers as artistic tools. If you're interested in web art, VR/AR, 3D modeling, game development, or making weird websites... this is the garden for you.
 
+## Goals
+
+- To create study groups with other members to help structure our learning and keep us motivated
+- To collaborate on small/large/quarterly/longterm/brief/complicated/simple projects
+- To have fun and find happiness in the community and in our computers 👽
+
 ## Projects
 
 These are projects our members are currently working on and may want help with. See something interesting? Talk to the project creator about it and see how you can contribute!
