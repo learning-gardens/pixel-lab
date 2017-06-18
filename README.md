@@ -1,4 +1,6 @@
-# Pixel Lab
+<h1 align="center">
+  Pixel Lab
+</h1>
 
 Pixel Lab is a garden within [Learning Gardens](http://learning-gardens.co/), dedicated to working on creative technological projects and teaching each other how we can use computers as artistic tools. If you're interested in web art, VR/AR, 3D modeling, game development, or making weird websites... this is the garden for you.
 
@@ -6,7 +8,7 @@ Pixel Lab is a garden within [Learning Gardens](http://learning-gardens.co/), de
 
 These are projects our members are currently working on and may want help with. See something interesting? Talk to the project creator about it and see how you can contribute!
 
-- [ART CONNEXIONS](https://github.com/morgane/art-connexions), by [morgane](https://github.com/morgane). A D3 project mapping out the relationships between visual artists since 1400.
+* [ART CONNEXIONS](https://github.com/morgane/art-connexions), by [morgane](https://github.com/morgane). A D3 project mapping out the relationships between visual artists since 1400.
 
 ## Resources and Tutorials
 
@@ -14,21 +16,21 @@ A collection of resources for various tools, and the people who know something a
 
 ### A-Frame
 
-[A-Frame docs](https://aframe.io/docs/0.5.0/introduction/)
+* [A-Frame docs](https://aframe.io/docs/0.5.0/introduction/)
 
 ### ARKit
 
-["How I built an augmented reality app with the Mapbox Unity SDK and ARKit"](https://www.mapbox.com/blog/mapbox-unity-plus-arkit/)
+* ["How I built an augmented reality app with the Mapbox Unity SDK and ARKit"](https://www.mapbox.com/blog/mapbox-unity-plus-arkit/)
 
 ### Cinema 4D
 
-[Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
+* [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
 
 ### D3
 
-[official D3 website](https://d3js.org/)
-[egghead D3 tutorial](https://egghead.io/technologies/d3)
-[D3 examples, with code](https://bl.ocks.org/mbostock)
+* [official D3 website](https://d3js.org/)
+* [egghead D3 tutorial](https://egghead.io/technologies/d3)
+* [D3 examples, with code](https://bl.ocks.org/mbostock)
 
 [morgane](https://github.com/morgane): some experience with D3 and am willing to offer guidance to absolute beginners
 
