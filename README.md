@@ -32,6 +32,7 @@ A collection of resources for various tools, and the people who know something a
 * [egghead D3 tutorial](https://egghead.io/technologies/d3)
 * [D3 examples, with code](https://bl.ocks.org/mbostock)
 
+Members
 * [morgane](https://github.com/morgane): some experience with D3 and am willing to offer guidance to absolute beginners
 
 ### Maya
