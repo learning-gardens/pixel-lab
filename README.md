@@ -16,36 +16,57 @@ A collection of resources for various tools, and the people who know something a
 
 ### A-Frame
 
-* [A-Frame docs](https://aframe.io/docs/0.5.0/introduction/)
+- Resources
+  - [A-Frame docs](https://aframe.io/docs/0.5.0/introduction/)
+- Members
+  - TBD
 
 ### ARKit
 
-* ["How I built an augmented reality app with the Mapbox Unity SDK and ARKit"](https://www.mapbox.com/blog/mapbox-unity-plus-arkit/)
+- Resources
+  - ["How I built an augmented reality app with the Mapbox Unity SDK and ARKit"](https://www.mapbox.com/blog/mapbox-unity-plus-arkit/)
+- Members
+  - TBD
 
 ### Cinema 4D
 
-* [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
+- Resources
+  - [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
+- Members
+  - TBD
 
 ### D3
 
-* [official D3 website](https://d3js.org/)
-* [egghead D3 tutorial](https://egghead.io/technologies/d3)
-* [D3 examples, with code](https://bl.ocks.org/mbostock)
+- Resources
+  - [official D3 website](https://d3js.org/)
+  - [egghead D3 tutorial](https://egghead.io/technologies/d3)
+  - [D3 examples, with code](https://bl.ocks.org/mbostock)
+- Members
+ - TBD
 
 ### Maya
 
-* [UCBUGG Maya tutorials](http://ucbugg.com/static/index.html#labsintroductiontomaya)
-* [Treehouse "3D Art with Maya LT" tutorial](https://teamtreehouse.com/library/3d-art-with-maya-lt)
-* [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
-* [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
+- Resources
+  - [UCBUGG Maya tutorials](http://ucbugg.com/static/index.html#labsintroductiontomaya)
+  - [Treehouse "3D Art with Maya LT" tutorial](https://teamtreehouse.com/library/3d-art-with-maya-lt)
+  - [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
+  - [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
+- Members
+ - TBD
 
 ### p5.js
 
-* [official p5.js website](https://p5js.org/)
+- Resources
+  - [official p5.js website](https://p5js.org/)
+- Members
+  - TBD
 
 ### Unity
 
-* [official Unity tutorials](https://unity3d.com/learn/tutorials)
-* [Treehouse "Game Development with Unity" track](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
-* [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
-* [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
+- Resources
+  - [official Unity tutorials](https://unity3d.com/learn/tutorials)
+  - [Treehouse "Game Development with Unity" track](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
+  - [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
+  - [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
+- Members
+  - TBD
