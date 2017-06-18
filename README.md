@@ -67,7 +67,7 @@ A collection of resources for various tools, and the people who know something a
   - [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
   - [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
 - Members
-  - TBD
+  - [morgane](https://github.com/morgane)
 
 ### p5.js
 
@@ -84,4 +84,4 @@ A collection of resources for various tools, and the people who know something a
   - [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
   - [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
 - Members
-  - TBD
+  - [morgane](https://github.com/morgane)
