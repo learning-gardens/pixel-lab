@@ -13,9 +13,9 @@ Pixel Lab is a garden within [Learning Gardens](http://learning-gardens.co/), de
 
 ## Goals
 
-- 📝 To create study groups with other members to help structure our learning and keep us motivated
-- 🛠️ To collaborate on small/large/quarterly/longterm/brief/complicated/simple projects
-- 👽 To have fun and find happiness in the community and in our computers
+~ 📝 ~ To create study groups with other members to help structure our learning and keep us motivated
+~ 🛠️ ~ To collaborate on small/large/quarterly/longterm/brief/complicated/simple projects
+~ 👽 ~ To have fun and find happiness in the community and in our computers
 
 ## Projects
 
