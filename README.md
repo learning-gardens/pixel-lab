@@ -24,7 +24,7 @@ Pixel Lab is a garden within [Learning Gardens](http://learning-gardens.co/), de
 These are projects our members are currently working on and may want help with. See something interesting? Talk to the project creator about it and see how you can contribute!
 
 * [ART CONNEXIONS](https://github.com/morgane/art-connexions), by [morgane](https://github.com/morgane). A D3 project mapping out the relationships between visual artists since 1400.
-* Aurora Metropolis (new repo soon) by [nickbytes](https://github.com/nickbytes) - A [Twine](https://twinery.org/)-like fantasy game written in React/[Next.js](https://github.com/zeit/next.js/).
+* Aurora Metropolis (new repo soon) by [nickbytes](https://github.com/nickbytes). A [Twine](https://twinery.org/)-like fantasy game written in React/[Next.js](https://github.com/zeit/next.js/).
 
 ## Resources and Tutorials
 
@@ -76,6 +76,13 @@ A collection of resources for various tools, and the people who know something a
   - [official p5.js website](https://p5js.org/)
 - Members
   - TBD
+  
+### React Ecosystem
+
+- Resources
+  - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
+- Members
+  - [nickbytes](https://github.com/nickbytes)
 
 ### Unity
 
@@ -86,10 +93,3 @@ A collection of resources for various tools, and the people who know something a
   - [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
 - Members
   - [morgane](https://github.com/morgane)
-
-### React Ecosystem
-
-- Resources
-  - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
-- Members
-  - [nickbytes](https://github.com/nickbytes)
