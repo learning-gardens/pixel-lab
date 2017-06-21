@@ -35,7 +35,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [A-Frame docs](https://aframe.io/docs/0.5.0/introduction/)
 - Members
-  - TBD
+  - [zech](https://github.com/zmillman)
 
 ### ARKit
 
@@ -49,7 +49,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
 - Members
-  - TBD
+  - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd)
 
 ### D3
 
@@ -58,7 +58,7 @@ A collection of resources for various tools, and the people who know something a
   - [egghead D3 tutorial](https://egghead.io/technologies/d3)
   - [D3 examples, with code](https://bl.ocks.org/mbostock)
 - Members
-  - TBD
+  - [morgane](https://github.com/morgane)
 
 ### Maya
 
@@ -68,7 +68,7 @@ A collection of resources for various tools, and the people who know something a
   - [Maya for Beginners](https://robots.thoughtbot.com/maya-for-beginners)
   - [morgane's Maya notes](https://www.notion.so/Maya-e00953c27e8f477db6578ab1e268ca8e)
 - Members
-  - [morgane](https://github.com/morgane)
+  - [morgane](https://github.com/morgane), [ikasliwal](https://github.com/ishakasliwal)
 
 ### p5.js
 
@@ -82,7 +82,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
 - Members
-  - [nickbytes](https://github.com/nickbytes)
+  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal)
 
 ### Unity
 
