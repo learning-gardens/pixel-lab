@@ -75,14 +75,14 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [official p5.js website](https://p5js.org/)
 - Members
-  - TBD
+  - [jay-manday](https://github.com/jay-manday)
   
 ### React Ecosystem
 
 - Resources
   - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
 - Members
-  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal)
+  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal), [jay-manday](https://github.com/jay-manday)
 
 ### Unity
 
