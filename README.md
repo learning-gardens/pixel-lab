@@ -50,7 +50,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
 - Members
-  - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd)
+  - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd), [manoel](https://github.com/manoel910)
 
 ### D3
 
