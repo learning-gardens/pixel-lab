@@ -25,6 +25,7 @@ These are projects our members are currently working on and may want help with. 
 
 * [ART CONNEXIONS](https://github.com/morgane/art-connexions), by [morgane](https://github.com/morgane). A D3 project mapping out the relationships between visual artists since 1400.
 * Aurora Metropolis (new repo soon) by [nickbytes](https://github.com/nickbytes). A [Twine](https://twinery.org/)-like fantasy game written in React/[Next.js](https://github.com/zeit/next.js/).
+* [Bramble](https://github.com/animalphase/bramble), by [animalphase](https://github.com/animalphase). A hypertext fiction editor. Written in React & Redux, running as a desktop app in Electron.
 
 ## Resources and Tutorials
 
@@ -76,13 +77,13 @@ A collection of resources for various tools, and the people who know something a
   - [official p5.js website](https://p5js.org/)
 - Members
   - [jay-manday](https://github.com/jay-manday)
-  
+
 ### React Ecosystem
 
 - Resources
   - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
 - Members
-  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal), [jay-manday](https://github.com/jay-manday)
+  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal), [jay-manday](https://github.com/jay-manday), [animalphase](https://github.com/animalphase)
 
 ### Unity
 
@@ -92,4 +93,4 @@ A collection of resources for various tools, and the people who know something a
   - [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
   - [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
 - Members
-  - [morgane](https://github.com/morgane)
+  - [morgane](https://github.com/morgane), [animalphase](https://github.com/animalphase)
