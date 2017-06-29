@@ -50,7 +50,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
 - Members
-  - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd), [manoel](https://github.com/manoel910)
+  - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd), [manoel](https://github.com/manoel910), [neue](http://neue.studio)
 
 ### D3
 
@@ -76,7 +76,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [official p5.js website](https://p5js.org/)
 - Members
-  - [jay-manday](https://github.com/jay-manday)
+  - [jay-manday](https://github.com/jay-manday), [neue](https://github.com/neue)
 
 ### React Ecosystem
 
@@ -93,4 +93,4 @@ A collection of resources for various tools, and the people who know something a
   - [morgane's Unity notes](https://www.notion.so/Unity-7bd3c37c3a204aefb05572beb7838bc6)
   - [Unity Lighting Basics](https://robots.thoughtbot.com/unity-lighting-basics)
 - Members
-  - [morgane](https://github.com/morgane), [animalphase](https://github.com/animalphase)
+  - [morgane](https://github.com/morgane), [animalphase](https://github.com/animalphase), [neue](https://github.com/neue)
