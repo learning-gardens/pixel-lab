@@ -83,7 +83,7 @@ A collection of resources for various tools, and the people who know something a
 - Resources
   - [Roadmap to Javascript Enlightenment [Are.na]](https://www.are.na/nick-beattie/roadmap-to-javascript-enlightenment) - contributions welcomed!
 - Members
-  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal), [jay-manday](https://github.com/jay-manday), [animalphase](https://github.com/animalphase)
+  - [nickbytes](https://github.com/nickbytes), [ikasliwal](https://github.com/ishakasliwal), [jay-manday](https://github.com/jay-manday), [animalphase](https://github.com/animalphase), [james.ayres](https://github.com/jayres)
 
 ### Unity
 
