@@ -49,6 +49,9 @@ A collection of resources for various tools, and the people who know something a
 
 - Resources
   - [Greyscalegorilla tutorials](https://greyscalegorilla.com/tutorials/#all)
+  - [Cinema4D For Absolute Beginners](https://greyscalegorilla.com/tutorials/cinema-4d-for-absolute-beginners/)
+  - [Eye For Design Cinema4D Tutorials](http://www.eyedesyn.com/tutorials/)
+  - [C4D Tutorials on Vimeo](https://vimeo.com/channels/bestofc4d/videos)
 - Members
   - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd), [manoel](https://github.com/manoel910), [neue](http://neue.studio)
 
