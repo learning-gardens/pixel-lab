@@ -53,6 +53,7 @@ A collection of resources for various tools, and the people who know something a
   - [Eye For Design Cinema4D Tutorials](http://www.eyedesyn.com/tutorials/)
   - [C4D Tutorials on Vimeo](https://vimeo.com/channels/bestofc4d/videos)
   - [Merkvilson C4D Mini-Tutorials](https://www.youtube.com/channel/UCMXJ-It8dp9H7mtlCS5DtjQ)
+  - [How to Create Pixel Art in Cinema 4D](https://vimeo.com/171756859)
 - Members
   - [ikasliwal](https://github.com/ishakasliwal), [edouard](https://github.com/edouerd), [manoel](https://github.com/manoel910), [neue](http://neue.studio)
 
